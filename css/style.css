@@ -123,6 +123,7 @@ p {
 .c2-text {
     flex: 1;
     text-align: center;
+    color: #1F2937;
 }
 .container3 {
     flex-direction: column;
