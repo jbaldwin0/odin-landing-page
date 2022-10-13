@@ -155,10 +155,10 @@ p {
     padding: 32px;
 }
 .container5 {
-    background-color: #1F2937;
-    color: #f9faf8;
     justify-content: center;
     align-items: center;
+    background-color: #1F2937;
+    color: #f9faf8;
     padding: 16px;
 }
 
@@ -180,4 +180,10 @@ p {
     color: #f9faf8;
     margin: 8px;
     padding: 16px;
+}
+
+.copyright {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
