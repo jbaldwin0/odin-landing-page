@@ -108,6 +108,7 @@ p {
     padding-left: 10%;
     padding-right: 10%;
     padding-bottom: 52px;
+    justify-content: space-between;
 }
 .container2 {
     justify-content: center;
